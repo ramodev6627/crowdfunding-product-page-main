@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.343afc5e.chunk.css",
+    "main.js": "/static/js/main.9626fa8e.chunk.js",
+    "main.js.map": "/static/js/main.9626fa8e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.93db77e9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.93db77e9.js.map",
+    "static/js/2.a39e08e1.chunk.js": "/static/js/2.a39e08e1.chunk.js",
+    "static/js/2.a39e08e1.chunk.js.map": "/static/js/2.a39e08e1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.343afc5e.chunk.css.map": "/static/css/main.343afc5e.chunk.css.map",
+    "static/js/2.a39e08e1.chunk.js.LICENSE.txt": "/static/js/2.a39e08e1.chunk.js.LICENSE.txt",
+    "static/media/icon-hamburger.f8a9f0cf.svg": "/static/media/icon-hamburger.f8a9f0cf.svg",
+    "static/media/image-hero-desktop.631209c1.jpg": "/static/media/image-hero-desktop.631209c1.jpg",
+    "static/media/image-hero-mobile.d4f477d4.jpg": "/static/media/image-hero-mobile.d4f477d4.jpg",
+    "static/media/logo-mastercraft.dca2a831.svg": "/static/media/logo-mastercraft.dca2a831.svg",
+    "static/media/logo.e6f12bc6.svg": "/static/media/logo.e6f12bc6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93db77e9.js",
+    "static/js/2.a39e08e1.chunk.js",
+    "static/css/main.343afc5e.chunk.css",
+    "static/js/main.9626fa8e.chunk.js"
+  ]
+}
